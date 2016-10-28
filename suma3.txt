@@ -1,0 +1,8 @@
+suma tres numeros
+@test
+void test suma(){
+assertequals(2 , abc(3,1,-2));
+}
+public int abc(int a ,int b, int c{
+return sum(sum(a,b),c);
+}
