@@ -1,0 +1,1 @@
+en este fichero estamos creando un nuevo conflicto, tal que en la rama master al hacer merge lo tengamos que resolver
