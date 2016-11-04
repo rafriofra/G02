@@ -1,0 +1,5 @@
+en este fichero estamos creando un nuevo conflicto, tal que en la rama master al hacer merge lo tengamos que resolver
+en este fichero estamos creando un conflicto para git en la rama b01
+
+ahora quitamos las marcas del merge y escribimos esto para completar
+por tanto, hemos resuelto conflicto con éxito
